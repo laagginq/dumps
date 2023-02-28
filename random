@@ -1,0 +1,223 @@
+
+ReplicatedFirst
+StarterGui
+InsertObject
+Parent
+PurchasePromptApp
+AnchorPoint
+TopBar
+Select ungrouped models
+ReplicatedStorage
+GetChildren
+NextSelectionUp
+CoreGui
+RobloxLocked
+Camera Instances
+Missing functions! Missing functions!
+
+delay
+After the map saves, open a new place on studio, then right click Lighting and 
+GetService
+CallRemote
+DevConsoleMaster
+RemoteDebugWindow
+Lighting Properties
+Loaded Modules
+Selectable
+NextSelectionDown
+RobloxNetworkPauseNotification
+Please do not spoof with __index! Please do not spoof with __index
+
+function
+nVyPf4
+NextSelectionLeft
+Confirmation
+AbsoluteSize
+Rotation
+SizeConstraint
+Starred
+ClipsDescendants
+BorderSizePixel
+TextLabel
+1066, 370.5
+SaveMapWindow
+Display values returned
+CoreScriptLocalization
+Delete
+On
+LayoutOrder
+DEX
+StarterPack
+Please do not use dex! Please do not use dex!
+
+ImageButton
+Frame
+random
+Copy
+BorderColor3
+Please do not spoof with hookfunction! Please do not spoof with hookfunction!
+
+Name
+To Save
+The file, FILENAME, already exists. Overwrite?
+This will save an instance to your PC. Type in the name for your instance. (.rbxmx will be added automatically.)
+RobloxPromptGui
+pairs
+BackgroundColor3
+Explorer
+Instance
+number
+SelectionChanged
+Save Terrain
+BackgroundTransparency
+math
+Something went wrong! Something went wrong!
+
+ImageLabel
+Selection
+PropertiesFrame
+DataCost
+SetSelection
+Use New Decompiler
+Size
+table
+show_console
+Call Remote
+Remote Debugger
+Active
+type
+IsA
+Caution
+Paste
+TableCaution
+string
+Connect
+Archivable
+RobloxGui
+Arguments
+Style
+Please do not spoof with __index! Please do not spoof with __index!
+
+tostring
+1749
+RootLocalizationTable
+Confirm
+boolean
+SaveInstance decompiles scripts
+ScriptEditor
+Workspace
+SaveInstance
+RBXScriptSignal
+Please be careful when editing instances inside here, this is like the System32 of Dex and modifying objects here can break Dex.
+300, 298.5
+Selection Box
+StarterPlayer
+Clear property value on focus
+Save Instance
+getconnections
+Lighting
+wait
+SettingsPanel
+ZIndex
+AbsoluteRotation
+v3
+game
+IntValue
+FindFirstChild
+Properties
+FindFirstChildOfClass
+pcall
+LocalScript
+Script
+Visible
+RobloxLoadingGui
+SetOption
+Please do not spoof with __namecall! Please do not spoof with __namecall!
+
+AutoLocalize
+ExplorerPanel
+Star
+Off
+Settings
+Have fun with remotes
+IntroFrame
+Map Downloader
+SelectionImageObject
+0
+NextSelectionRight
+Cut
+typeof
+GetSelection
+FindFirstAncestor
+SideMenu
+Toggle
+About
+Save Scripts
+Click part to select
+checkcaller
+GetOption
+Position
+Options
+AbsolutePosition
+ClassName
+Freeze
+SettingName
+random
+wait
+math
+delay
+wait
+math
+random
+rep
+Shutdown
+rconsoleprint
+game
+string
+warn
+hookfunction
+GetChildren
+Name
+GetChildren
+ClassName
+Text
+ScreenGui
+FindFirstAncestorWhichIsA
+pcall
+ChildAdded
+Please do not spoof with __index! Please do not spoof with __index!
+
+nil
+Please do not spoof with __namecall! Please do not spoof with __namecall!
+
+pairs
+IsA
+pcall
+table
+TextLabel
+Instance
+typeof
+Please do not spoof with __index! Please do not spoof __index!
+
+Please do not spoof with __index! Please do not spoof with __index
+
+string
+random
+tostring
+FindFirstChildOfClass
+ScreenGui
+ClassName
+wait
+Something went wrong! Something went wrong!
+
+Please do not use dex! Please do not use dex!
+
+LocalScript
+math
+type
+TextButton
+GetChildren
+Name
+GetChildren
+ClassName
+Text
